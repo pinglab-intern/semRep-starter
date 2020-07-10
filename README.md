@@ -10,8 +10,8 @@ Knowledge Graph Exploration with NLM semrep
 Dr. Dibakar Sigdel & Dr. David Liem (Mr. Vincent Kyi for technical support)
 
 ### Participants
-- Vladimir Guevara
-- Maya Gupta
+- **Vladimir Guevara**
+- **Maya Gupta**
 - Alex Zhang*
 - Ethan Tran*
 - Aaliyah
@@ -46,6 +46,7 @@ Final presentation at lab meeting.
 - Get introductory idea of Machine Learning from [Scikit](https://scikit-learn.org/stable) Learn and [Tensorflow](https://www.tensorflow.org/) (Specially, LSTM)
 
 ### Project Detail
+
 - **Step -1**: Prepare required CVD entities (e.g, UMLS dictionary, MeSH Tree, ICD Tree, Proteins, Genes, RNASeq, Drugs)
 - **Step -2**: Explore semRep for CVD cases with CVD entities
 - **Step -3**: Prepare a CVD KG from available SPO triplets
