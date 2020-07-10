@@ -4,7 +4,7 @@ Knowledge Graph Exploration with NLM semrep
 
 **Title:** A study of Drug to cardiovascular disease (CVD) Association with SemRep and Deep learning
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Free_Radical_Toxicity.svg/600px-Free_Radical_Toxicity.svg.png" width="400" height="700"></img>)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Free_Radical_Toxicity.svg/600px-Free_Radical_Toxicity.svg.png" width="400" height="500"></img>)
 
                                        Image Courtesy: covidgraph.org 
 
