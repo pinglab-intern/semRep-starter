@@ -4,6 +4,10 @@ Knowledge Graph Exploration with NLM semrep
 
 **Title:** A study of Drug to cardiovascular disease (CVD) Association with SemRep and Deep learning
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Free_Radical_Toxicity.svg/600px-Free_Radical_Toxicity.svg.png" width="700" height="350"></img>)
+
+                                       Image Courtesy: covidgraph.org 
+
 **Description**: Starting with well defined oxidative stress categories (e.g., Initiation, Regulation and Outcome of Oxidative Stress) and a list of drugs in cardiovascular disease (CVD), we will explore semrep to extract all relevant SPO- triplet. We further build knowledge graphs with these triplets and prepare a muli-order association matrix to represent graph data structure. Using this graph structure, we will build a sequence prediction model for drug to CVD association. This project will provide a detailed analysis of drugs to CVD association with both qualitative evidence and quantitative scores.
 
 **Leaders/Instructors:**
@@ -62,3 +66,4 @@ Final presentation at lab meeting.
 1. Github for SemRep (https://github.com/CaseOLAP/SemRep)
 2. SemRep Paper (https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8574025)
 3. SemRep NLM (https://semrep.nlm.nih.gov/)
+4. Oxidative Stress (https://en.wikipedia.org/wiki/Oxidative_stress)
